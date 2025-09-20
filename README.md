@@ -1,5 +1,5 @@
 # PowerBiProjects
-Welcome to my Power BI Portfolio! This repository highlights a collection of end-to-end data analysis and reporting projects developed using Power BI. These projects span a variety of industries including e-commerce, supply chain, retail, banking. Each project focuses on solving real-world business problems through data-driven storytelling, dynamic dashboards, and insightful visualizations.
+Welcome to my Power BI Portfolio! This repository highlights a collection of end-to-end data analysis and reporting projects developed using Power BI. These projects span a variety of industries, including e-commerce, supply chain, retail, banking. Each project focuses on solving real-world business problems through data-driven storytelling, dynamic dashboards, and insightful visualizations.
 
 This portfolio demonstrates my ability to:
 
@@ -13,9 +13,9 @@ Collaborate cross-functionally to align data solutions with business goals. Work
 Enable strategic, data-driven decision-making across the organization
 Deliver analytical solutions that not only monitor performance but also provide predictive insights and support forecasting, planning, and long-term strategic initiatives
 
+# 🔍  Projects Overview
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔍 # Projects Overview
 1. 🛍️ Evercode - Online Women’s Clothing Sales Report
 Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZjE5NmRjMGEtMWQ3ZC00ZWM0LTk0MzUtZTk1M2NmMDViMDM2IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 
@@ -58,3 +58,32 @@ Key Features:
 Segmentation by income bracket, age group
 Patterns by loan type
 Product trends by month
+
+
+# 🛠️ Skills Demonstrated
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Data Preparation & Transformation
+•	Power Query: filtering, pivoting/unpivoting, error handling, custom columns
+•	SQL Server: importing data via custom queries
+
+## Data Modeling
+•	Star schema with fact and dimension tables
+•	Relationship management and normalization
+•	Calendar table integration for time intelligence
+
+## DAX Measures & Calculated Columns
+•	Time-based calculations: SAMEPERIODLASTYEAR, PREVIOUSMONTH
+•	Custom KPIs: claim counts, revenue trends, readmission rates
+•	Dynamic filters and slicers integration
+
+## Visual Storytelling & UX
+•	KPIs with cards and tooltips
+•	Drill-through and bookmarks for interactivity
+•	Use of custom visuals (e.g., calendar visual)
+•	Layout and color consistency for accessibility
+
+## Power BI Service & Sharing
+•	Publishing to Power BI Service
+•	Dashboard creation and sharing via Power BI Apps
+•	Role-based access with Row-Level Security (RLS)

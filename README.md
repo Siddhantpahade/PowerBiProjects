@@ -13,7 +13,9 @@ Collaborate cross-functionally to align data solutions with business goals. Work
 Enable strategic, data-driven decision-making across the organization
 Deliver analytical solutions that not only monitor performance but also provide predictive insights and support forecasting, planning, and long-term strategic initiatives
 
-🔍 Projects Overview
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔍 # Projects Overview
 1. 🛍️ Evercode - Online Women’s Clothing Sales Report
 Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZjE5NmRjMGEtMWQ3ZC00ZWM0LTk0MzUtZTk1M2NmMDViMDM2IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 
@@ -25,6 +27,7 @@ Customer segmentation to identify key demographics
 Sales performance KPIs (Units Sold, Revenue, Profit Margin)
 Dynamic slicers for SKU, gender, and customer location
 
+
 2. 📦 iTrade Network Dashboard
 Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMmE1ZDhkZWYtODRkYy00YWYyLTgwZjUtMjhjYzhlNTAwYmNmIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 
@@ -34,3 +37,24 @@ Key Features:
 Supplier delivery breakdown
 Volume trend analysis across months and regions
 Drill-through reports for product category and location insights Sales Analysis: Breakdown of sales by time, status, and location Product Performance: Evaluation of product-level trends and contributions Demographic Analysis: Insights into customer profiles and purchasing patterns
+
+3. 🧺 Tariq Oriental Rugs Sales Insights
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYjk1MGY3YTMtMGRjZC00MzU0LWIzNWQtOTA0NmQ4YTI3ODNjIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
+
+Domain: Retail / Specialty Rugs & Home Decor
+Objective: Provide visibility into sales performance by rug type, style, origin, and geography.
+Key Features:
+Sales by rug material, size, and region
+Top-selling products
+Filtering by weave, design, location
+
+
+4. 🏦 Bank Customer and Loan Performance Dashboard
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzllMTI3YWEtYTFhOS00NTdmLTg0YWEtMTVkYTliYzVkN2Q5IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
+
+Domain: Banking / Financial Services
+Objective: Track customer demographics, loan trends.
+Key Features:
+Segmentation by income bracket, age group
+Patterns by loan type
+Product trends by month
